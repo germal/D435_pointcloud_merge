@@ -1,0 +1,12 @@
+#--------------------------------------------------------------------------------------------
+# MappViewer
+#--------------------------------------------------------------------------------------------
+MappViewer.dispStatPeriod: 20.0
+MappViewer.pointSizeMatchingHighSubmap: 1.0
+MappViewer.pointSizeMatchingLowSubmap: 1.0
+MappViewer.pointSizeGlobalMap: 1.2
+#0: TOP, 1: FIXED, 2: FREE
+MappViewer.viewMode: 0
+MappViewer.glbMapName: 20190314_cart_c55f/20190314_cart_c55f.laz
+MappViewer.tfFileName: 20190314_cart_c55f/20190314_cart_c55f.tf
+MappViewer.tsFileName: 20190314_cart_c55f/velodyne/timestamps.txt
